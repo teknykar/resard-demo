@@ -1,0 +1,21 @@
+{
+  "name": "RESARD Smart Monitoring Demo",
+  "short_name": "RESARD",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F8FC",
+  "theme_color": "#0B4F7D",
+  "description": "Time Net / RESARD customer demo for warehouse and cold-chain monitoring.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
